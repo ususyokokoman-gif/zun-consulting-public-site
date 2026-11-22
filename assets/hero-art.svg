@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 820" preserveAspectRatio="xMidYMid slice">
+<defs><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#89988d" stroke-opacity=".13" stroke-width=".7"/></pattern><filter id="shadow" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="2" dy="20" stdDeviation="22" flood-color="#0c1816" flood-opacity=".25"/></filter></defs>
+<rect width="700" height="820" fill="#202f2d"/><rect width="700" height="820" fill="url(#grid)"/>
+<g opacity=".35" stroke="#82938a" stroke-width="1"><path d="M50 90h600M50 710h600M95 50v720"/><circle cx="95" cy="90" r="5" fill="none"/><circle cx="650" cy="710" r="5" fill="none"/></g>
+<g transform="translate(95 105) rotate(-7 260 320)" filter="url(#shadow)">
+<rect x="30" y="55" width="470" height="590" fill="#b5bbb0"/>
+<rect x="0" y="0" width="470" height="590" fill="#f1ede4"/>
+<rect x="0" y="0" width="470" height="590" fill="none" stroke="#ddd8cd" stroke-width="1.5"/>
+<path d="M37 73H432M37 500H432" stroke="#c8c7bf" stroke-width="1"/>
+<text x="37" y="47" fill="#4f615a" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="3">DECISION NOTES</text>
+<text x="430" y="47" fill="#4f615a" font-family="Arial,sans-serif" font-size="11" text-anchor="end">Z/C — 001</text>
+<text x="37" y="118" fill="#172c28" font-family="Georgia,serif" font-size="31">CLARIFY THE QUESTION.</text>
+<path d="M38 158h396M38 178h300" stroke="#999e94" stroke-width="1.5"/>
+<g transform="translate(38 227)">
+<circle cx="35" cy="0" r="26" fill="#263e38"/><circle cx="192" cy="0" r="26" fill="#263e38"/><circle cx="352" cy="0" r="26" fill="#a65f3c"/>
+<path d="M61 0H166M218 0H326" stroke="#a0aaa0" stroke-width="2"/>
+<text x="35" y="5" fill="#f1ede4" text-anchor="middle" font-family="Arial,sans-serif" font-size="14">01</text><text x="192" y="5" fill="#f1ede4" text-anchor="middle" font-family="Arial,sans-serif" font-size="14">02</text><text x="352" y="5" fill="#fff" text-anchor="middle" font-family="Arial,sans-serif" font-size="14">03</text>
+<text x="35" y="51" fill="#41544d" text-anchor="middle" font-family="Arial,sans-serif" font-size="13">SORT</text><text x="192" y="51" fill="#41544d" text-anchor="middle" font-family="Arial,sans-serif" font-size="13">DECIDE</text><text x="352" y="51" fill="#41544d" text-anchor="middle" font-family="Arial,sans-serif" font-size="13">ACT</text>
+</g>
+<path d="M38 348h395" stroke="#b9bdb3"/>
+<g fill="#53655e" font-family="Arial,sans-serif" font-size="10" letter-spacing="2"><text x="39" y="381">OBSERVE</text><text x="39" y="416">PRIORITIZE</text><text x="39" y="451">ACT</text></g>
+<g stroke="#b6beb3" stroke-width="2"><path d="M175 377h254M175 412h210M175 447h237"/></g>
+<g fill="#a65f3c"><circle cx="429" cy="377" r="4"/><circle cx="385" cy="412" r="4"/><circle cx="412" cy="447" r="4"/></g>
+<text x="38" y="540" fill="#293d37" font-family="Georgia,serif" font-style="italic" font-size="17">Clarity makes progress.</text>
+</g>
+<g transform="translate(420 600) rotate(12)"><rect width="208" height="115" fill="#a96646"/><path d="M25 31h155M25 52h111M25 73h134" stroke="#f1ded1" stroke-width="1.4"/><text x="25" y="96" fill="#f6e4d9" font-family="Arial,sans-serif" font-size="9" letter-spacing="2">NEXT ACTION</text></g>
+<path d="M604 78h45M627 56v44" stroke="#c99976" stroke-width="1.5"/>
+</svg>
